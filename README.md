@@ -6,6 +6,8 @@
 - [x] Give you the chance back to install & use the old Skype version again
 - [x] Avoid Malware downloads, this release is verified and the checksums and all needed informations are given
 
+**Download**
+* You can get the latest working Skype version under the [release tab](https://github.com/CHEF-KOCH/Old-Skype/releases/tag/1.0). 
 
 **Reference**:
 * [Official Skype website](https://www.skype.com/de/get-skype/)
